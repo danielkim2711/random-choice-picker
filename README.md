@@ -1,2 +1,3 @@
-# random-choice-picker
-A random choice picker
+# Random Choice Picker
+
+https://danielkim2711.github.io/random-choice-picker/
